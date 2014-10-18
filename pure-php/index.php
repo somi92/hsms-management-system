@@ -11,10 +11,14 @@
 
 	<body>
 
-		<?php include('header.php'); ?>
+		<div id="wrapper">
+			<?php include('header.php'); ?>
 
-		<h1>Milos Stojanovic</h1>
+			<div id="content">
+			    			
+			</div>
 
-		<?php include('footer.php'); ?>
+			<?php include('footer.php'); ?>
+		</div>
 	</body>
 </html>

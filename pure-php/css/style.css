@@ -4,20 +4,20 @@
 }
 
 #header {
-	border: 4px #009300 solid;
+	border: 1px red solid;
 	margin: auto;
 	width: 1200px;
-	height: 200px;
-	background-color: black;
+	height: 150px;
+	background-color: white;
 }
 
 #title {
 	font-family: Courier;
 	font-size: 50px;
-	float: left;
+	margin: auto;
 	margin-left: 45px;
 	margin-top: 50px;
-	color: #009300;
+	color: red;
 	
 }
 
@@ -36,6 +36,19 @@
 	margin-top: 140px;
 	padding-left: 30px;
  }
+
+ #content {
+ 	border: 1px red solid;
+	position: relative;
+	margin: auto;
+	margin-top: 35px;
+	margin-bottom: 35px;
+	width: 1200px;
+	min-height: 500px;
+	height: auto;
+	background: transparent;
+	overflow: auto;
+}
 
 #footer {
 	height: 80px;
