@@ -1,0 +1,58 @@
+#wrapper {
+	width: 100%;
+	height: 100%;
+}
+
+#header {
+	border: 4px #009300 solid;
+	margin: auto;
+	width: 1200px;
+	height: 200px;
+	background-color: black;
+}
+
+#title {
+	font-family: Courier;
+	font-size: 50px;
+	float: left;
+	margin-left: 45px;
+	margin-top: 50px;
+	color: #009300;
+	
+}
+
+#cursor {
+	font-family: Courier;
+	font-size: 50px;
+	color: #009300;
+	margin-top: 50px;
+	float: left;
+}
+
+ #navbar {
+	margin: auto;
+	width: 1500px;
+	height: 50px;
+	margin-top: 140px;
+	padding-left: 30px;
+ }
+
+#footer {
+	height: 80px;
+	width: 1200px;
+	margin: auto;
+	border: 1px red solid;
+	clear: both;
+}
+
+#footer p {
+	text-align: center;
+}
+
+div {
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+}
