@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>Miloš Stojanović - lična prezentacija</title>
+		<title>HSMS Management System</title>
 		
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
 		
@@ -12,6 +12,7 @@
 	<body>
 
 		<div id="wrapper">
+
 			<?php include('header.php'); ?>
 
 			<div id="content">
@@ -20,5 +21,7 @@
 
 			<?php include('footer.php'); ?>
 		</div>
+
 	</body>
+	
 </html>
